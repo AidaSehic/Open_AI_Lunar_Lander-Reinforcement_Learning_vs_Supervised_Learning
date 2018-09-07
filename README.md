@@ -58,15 +58,13 @@ agent to play the Lunar Lander. Sensible hyper-parameters were used. Evaluation 
 </ul>  
 
 
+Each of the three models were deployed and the reward achieved by the models trained
+using each approach was analysed.
+Following Python scriptis contain the code to load a saved model and run iterations of the game using that model.:
+<ul>
+  <li>lunar_lander_ml_images_player.py,</li>
+  <li>lunar_lander_ml_state_player.py and</li>
+  <li>lunar_lander_rl_player.py</li>
+</ul>  
 
-4. Deploy each of the three models trained to the Lunar Lander Game play
-200 episodes and analyse the reward achieved by the models trained
-using each approach
-• The lunar_lander_ml_images_player.py,
-lunar_lander_ml_state_player.py and
-lunar_lander_rl_player.py python scripts contain the code to load
-a saved model and run iterations of the game using that model.
-• Write a short document (no more that 350 words) in a Jupyter
-notebook to describe the results of the experiments
-• Reflect on the performance of each model
-• Reflect on the amount of computation required to train each model
+
