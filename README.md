@@ -38,58 +38,26 @@ leg of the spaceship is in contact with the ground</li>
         <li>action: The action that the expert player took in this
 scenario</li>
       </ul>  
-  <li>Try out a few classifier types and select sensible hyper-parameters</li>
-  <li>Perform a suitable evaluation experiment to determine how
-effective the model trained is</li>
+  <li>A few classifier types were used while selecting sensible hyper-parameters</li>
+  <li>Evaluation experiment was preformed in order to determine how effective the model trained is</li>
 </ul>  
  </li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
-Part 1. A supervised machine learning model was trained to control the Lunar Lander
-craft based on the extracted high-level state representations.
-* This dataset is contained in the file LunarLanderStateVectors.csv
-* The features in this dataset are as follows:
-• step: The step in the game that the player was on
-• pos_x: The x position of the centre of the spaceship - the
-middle of the landing pad is always at (0, 0)
-• pos_y: The y position of the centre of the spaceship - the
-middle of the landing pad is always at (0, 0)
-• vel_x: The velocity of the spaceship in the x direction
-• vel_y: The velocity of the spaceship in the y direction
-• ship_lander_angle: The angle between the centre of the
-spaceship and the centre of the landing pad
-• ship_lander_angular_vel: The spaceship's angular velocity
-with respect to the landing pad
-• leg_1_ground_contact: A binary flag indicating if the left
-leg of the spaceship is in contact with the ground
-• leg_2_ground_contact: A binary flag indicating if the left
-leg of the spaceship is in contact with the ground
-• action: The action that the expert player took in this
-scenario
-
-• Try out a few classifier types and select sensible hyper-parameters
-• Perform a suitable evaluation experiment to determine how
-effective the model trained is
-
-2. Train a supervised machine learning model to control the Lunar Lander
+  <li><b>Part 2.</b>Supervised machine learning model was trained in order to control the Lunar Lander
 craft based on the image dataset.
-• Each image shows the state of the world and the image filename
-indicates the action that the expert player took in that scenario
-• You should consider converting the images to greyscale
-• You should considering shrinking the images
+  <ul>
+  <li>Each image shows the state of the world and the image filename
+indicates the action that the expert player took in that scenario</li>
+  <li>Images were converted to greyscale and shrinked</li>
+  <li>A couple of model architectures were tested while selecting sensible hyper-
+parameters</li>
+  <li>Evaluation experiment was perfomed to determine how effective the model trained is</li>
+</ul>
+  </li>
+  <li><b>Part 3.</b> DeepQLearning reinforcement learning algorithm was used to train an
+agent to play the Lunar Lander. Sensible hyper-parameters were used. Evaluation experiment was perfomed to determine how effective the model trained is.
+</ul>  
 
-• Try out a couple of model architectures and select sensible hyper-
-parameters
 
-• Perform a suitable evaluation experiment to determine how
-effective the model trained is
-
-3. Use the DeepQLearning reinforcement learning algorithm to train an
-agent to play the Lunar Lander
-• Select sensible hyper-parameters
-• Perform a suitable evaluation experiment to determine how
-effective the model trained is
 
 4. Deploy each of the three models trained to the Lunar Lander Game play
 200 episodes and analyse the reward achieved by the models trained
