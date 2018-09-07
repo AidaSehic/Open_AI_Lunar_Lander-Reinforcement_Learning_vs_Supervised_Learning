@@ -1,4 +1,5 @@
 # Open AI Lunar Lander - Reinforcement Learning Algorithm vs Supervised Machine Learning Algorithm
+### Aida Sehic & Mashal Ahmad 
 
 ## Introduction
 In the OpenAI Gym game Lunar Lander
@@ -68,3 +69,20 @@ Following Python scriptis contain the code to load a saved model and run iterati
 </ul>  
 
 
+## AIDA SEHIC & MASHAL AHMAD              
+
+[Assignmnet Folder](https://drive.google.com/open?id=1u3N_UYeUP63MqTQngrooQRNxoR7Bgl41) has follwoing files
+* part1.ipynb    implementation of part 1
+* part1.html     html file for part1
+* part2A.ipynb    implementation of part 2 (uses: Model1 described below)
+* part2A.html     html file for part 2
+* part2B.ipynb    implementation of part 2 (uses: Model1_distr described below)
+* part2B.html     html file for part 2
+* part2C.ipynb    implementation of part 2 (uses: Model1Distr10Folds described below)
+* part2C.html     html file for part 2
+* part3.py       implementation of part 3
+* part3.html     html of part 3
+* Models_rewards   Folder for rewards and Models    
+[Link ](https://drive.google.com/open?id=1g5DRsV6jO06ixJgHqs0J5pyL4UN4IXdH)
+* part2notebooks-7architectures   Folder with implementation of 7 different model architectures for part 2 described below (for the assessment we are submitting only three notebooks: part2A and part2B and/or part2C)
+[Link ](https://drive.google.com/open?id=1XjUtehiXCmhi9nnD__vel6K3pxSGJP1Q)
