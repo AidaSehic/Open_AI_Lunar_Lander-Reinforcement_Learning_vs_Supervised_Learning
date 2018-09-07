@@ -69,9 +69,9 @@ Following Python scriptis contain the code to load a saved model and run iterati
 </ul>  
 
 
-## AIDA SEHIC & MASHAL AHMAD              
+## Description and the results of the experiments              
 
-[Assignmnet Folder](https://drive.google.com/open?id=1u3N_UYeUP63MqTQngrooQRNxoR7Bgl41) has follwoing files
+[Project Folder](https://drive.google.com/open?id=1u3N_UYeUP63MqTQngrooQRNxoR7Bgl41) has follwoing files
 * part1.ipynb    implementation of part 1
 * part1.html     html file for part1
 * part2A.ipynb    implementation of part 2 (uses: Model1 described below)
