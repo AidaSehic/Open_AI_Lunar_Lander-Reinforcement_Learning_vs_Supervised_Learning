@@ -1,1 +1,1 @@
-# Open_AI_Lunar_Lander-Reinforcement_Learning_vs_Supervised_Learning
+# Open AI Lunar Lander - Reinforcement Learning Algorithm vs Supervised Machine Learning Algorithm
